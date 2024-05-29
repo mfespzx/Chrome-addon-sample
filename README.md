@@ -1,1 +1,2 @@
 Google Chromeのアドオンとローカルサーバーを連携したURL一覧生成スクリプトのアドオン側のコードです
+TypeScriptです
